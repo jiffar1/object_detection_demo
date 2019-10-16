@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_2622.JPG</filename>
+	<path>/Users/jja/Downloads/models/research/object_detection/images/train/IMG_2622.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>82</ymin>
+			<xmax>486</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

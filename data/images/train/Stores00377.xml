@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Stores00377.jpg</filename>
+	<path>/Users/jja/Downloads/models/research/object_detection/images/train/Stores00377.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>double_door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>225</ymin>
+			<xmax>276</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

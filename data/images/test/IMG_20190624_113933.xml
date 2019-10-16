@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_20190624_113933.jpg</filename>
+	<path>/Users/jja/Downloads/models/research/object_detection/images/test/IMG_20190624_113933.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>double_door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>150</ymin>
+			<xmax>574</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20190624_110755.jpg</filename>
+	<path>/Users/jja/Downloads/models/research/object_detection/images/train/IMG_20190624_110755.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>double_door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>96</ymin>
+			<xmax>297</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>
